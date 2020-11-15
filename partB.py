@@ -17,21 +17,20 @@ with open('G2005.pkl', 'rb') as f:
 selected = find_gcc(G2005)
 
 
-# scores = nx.pagerank(selected)
-# sorted_scores = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
-# counter = 0
-# print(sorted_scores)
-# with open('pagerank.txt', 'wt') as file:
-#     for s in sorted_scores:
-#         if counter == 50:
-#             break
-#         file.write(s[0] + ', ' + str(s[1])+ '\n')
-#         counter += 1
+scores = nx.pagerank(selected)
+sorted_scores = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+counter = 0
+print(sorted_scores)
+with open('G2005pagerank.txt', 'wt') as file:
+    for s in sorted_scores:
+        if counter == 50:
+            break
+        file.write(s[0] + ', ' + str(s[1])+ '\n')
+        counter += 1
 
 edge_betweenness = nx.edge_betweenness_centrality(selected, k=10)
 sorted_edge_betweenness = sorted(edge_betweenness.items(), key=lambda kv: kv[1], reverse=True)
 counter = 0
-print(sorted_edge_betweenness)
 with open('G2005edge_betweenness.txt', 'wt') as file:
     for s in sorted_edge_betweenness:
         if counter == 50:
