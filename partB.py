@@ -8,17 +8,22 @@ def find_gcc(G):
 with open('G2005.pkl', 'rb') as f:
     G2005 = pickle.load(f)
 
-with open('G2006.pkl', 'rb') as f:
-    G2006 = pickle.load(f)
+# with open('G2006.pkl', 'rb') as f:
+#     G2006 = pickle.load(f)
+#
+# with open('G2005weighted.pkl', 'rb') as f:
+#     G2005weighted = pickle.load(f)
 
-with open('G2005weighted.pkl', 'rb') as f:
-    G2005weighted = pickle.load(f)
+selected = find_gcc(G2005)
+# scores = nx.pagerank(selected)
+# sorted_scores = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+# counter = 0
+# print(sorted_scores)
+# with open('pagerank.txt', 'wt') as file:
+#     for s in sorted_scores:
+#         if counter == 50:
+#             break
+#         file.write(s[0] + ', ' + str(s[1])+ '\n')
 
-# Finding the giant connected component of each graph
-G2005weighted = find_gcc(G2005weighted)
-G2005 = find_gcc(G2005)
-G2006 = find_gcc(G2006)
-
-print(G2005weighted.number_of_nodes(), G2005weighted.number_of_edges())
-print(G2005.number_of_nodes(), G2005.number_of_edges())
-print(G2006.number_of_nodes(), G2006.number_of_edges())
+edge_betweenness = nx.edge_betweenness_centrality(selected, k=10)
+print(edge_betweenness)
