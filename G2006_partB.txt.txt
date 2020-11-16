@@ -1,0 +1,50 @@
+Z. Zhang, Gang George Yin, 8.127765454694824e-06
+Pabitra Mitra, Prithwijit Guha, 8.078849173367689e-06
+Antonio F. Gómez-Skarmeta, Maryline Laurent-Maknavicius, 8.077413919345694e-06
+Prithwijit Guha, Dip Goswami, 8.07739217307263e-06
+P. Amico, Z. Zhang, 8.04668234338574e-06
+Sami Khawam, Joe Naoum-Sawaya, 7.957749559855697e-06
+Pierrick Gaudry, Éric Schost, 7.575688038457232e-06
+Xin Li, Éric Schost, 7.467096398660869e-06
+Tughrul Arslan, Sami Khawam, 7.033514693846583e-06
+Jerónimo Arenas-García, Manuel Ortega-Moral, 6.999011036389332e-06
+Hong Wang, Le Yi Wang, 6.871371722014601e-06
+Le Yi Wang, Gang George Yin, 6.870421946369579e-06
+Pabitra Mitra, Jaewoo Kang, 6.401312172807232e-06
+Frank K. H. A. Dehne, Albert Chan, 6.26849065085716e-06
+Tughrul Arslan, Lei Wang, 5.979019827059956e-06
+Martin D. F. Wong, I-Min Liu, 5.812283500729138e-06
+Guido Governatori, Ruopeng Lu, 4.78285675907231e-06
+Jan Larsen, Jerónimo Arenas-García, 4.458853463703003e-06
+Frank K. H. A. Dehne, Ying Chen, 4.35392405454908e-06
+Danilo P. Mandic, Jan Larsen, 4.011669779975233e-06
+Peter Loos, Katrina Leyking, 3.9388896596537565e-06
+Ralf Steinmetz, Katrina Leyking, 3.87724545264186e-06
+Deming Chen, Martin D. F. Wong, 3.845504139607489e-06
+Danilo P. Mandic, Wei Liu, 3.311731997057529e-06
+Deming Chen, Jason Cong, 3.151042167346285e-06
+Antonio F. Gómez-Skarmeta, Pedro M. Ruiz, 2.914693471189459e-06
+Antonio F. Gómez-Skarmeta, Juan A. Sánchez, 2.913845366540097e-06
+Peter Loos, Michael Weber, 2.780789549853923e-06
+Jian Pei, Jaewoo Kang, 2.73060654789839e-06
+Gregory E. Kersten, Michael Weber, 2.7114759931876884e-06
+Pedro M. Ruiz, Ivan Stojmenovic, 2.5544316064744762e-06
+Juan A. Sánchez, Ivan Stojmenovic, 2.5510485750866243e-06
+Yi Pan, Ivan Stojmenovic, 2.509883931662728e-06
+Shazia Wasim Sadiq, Ruopeng Lu, 2.4305158980258177e-06
+Lars Kai Hansen, Jerónimo Arenas-García, 2.306334617228197e-06
+Mehmet A. Orgun, Guido Governatori, 2.266640500856642e-06
+I-Min Liu, Hung-Ming Chen, 2.2652608962549186e-06
+Yan Zhang, Hong Wang, 1.8753122257639994e-06
+Li Zhang, Hong Wang, 1.8472519686661e-06
+Yan Zhang, Jason Cong, 1.6954211717052e-06
+Pabitra Mitra, Nitin Gupta, 1.686355570716388e-06
+Maria E. Orlowska, Shazia Wasim Sadiq, 1.5571356170394995e-06
+Ling Feng, Lars Kai Hansen, 1.5448121234664295e-06
+Anthony D. Joseph, Ralf Steinmetz, 1.4808605710747946e-06
+Feipei Lai, Hung-Ming Chen, 1.2552409300941173e-06
+Ying Li, Ying Chen, 1.2535003832022054e-06
+Robert M. Colomb, Guo Tong Xie, 1.2289567828618394e-06
+Lei Guo, Hong Wang, 1.1531287656524272e-06
+Jorge J. Gómez-Sanz, Juan A. Botía, 1.1383120080473683e-06
+Antonio F. Gómez-Skarmeta, Juan A. Botía, 1.1383086539611843e-06
