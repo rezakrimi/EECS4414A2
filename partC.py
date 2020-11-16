@@ -2,11 +2,6 @@ import pickle
 import networkx as nx
 from tqdm import tqdm
 
-def neighborhood(G, node, n):
-    path_lengths = nx.single_source_dijkstra_path_length(G, node)
-    return [node for node, length in path_lengths.items()
-                    if length == n]
-
 def find_fof(G, node):
     result = []
     visited = [node]
@@ -24,8 +19,10 @@ with open('dblp2005-core.pkl', 'rb') as f:
     core2005 = pickle.load(f)
 
 with open('dblp2006-core.pkl', 'rb') as f:
-    core2006= pickle.load(f)
+    core2006 = pickle.load(f)
 
+# code to find fof
+'''
 fof = set([])
 for n in tqdm(core2005.nodes):
     current_fof = find_fof(core2005, n)
@@ -35,3 +32,20 @@ for n in tqdm(core2005.nodes):
 
 with open('fof.pkl', 'wb') as f:
     pickle.dump(fof, f)
+'''
+
+#code to find set T
+T = []
+for edge in tqdm(core2006.edges()):
+    if not core2005.has_edge(edge[0], edge[1]):
+        T.append(edge)
+
+#code to load fof
+with open('fof.pkl', 'rb') as f:
+    fof = pickle.load(f)
+
+preds = nx.jaccard_coefficient(core2005, fof)
+preds = sorted(preds, key= lambda x:x[2], reverse=True)
+with open('jaccard_coefficient.pkl', 'wb') as f:
+    pickle.dump(preds, f)
+print(preds)

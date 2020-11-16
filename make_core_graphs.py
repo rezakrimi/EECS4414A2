@@ -33,4 +33,4 @@ with open('dblp2005-core.pkl', 'wb') as f:
     pickle.dump(core2005, f)
 
 with open('dblp2006-core.pkl', 'wb') as f:
-    pickle.dump(core_nodes2006, f)
+    pickle.dump(core2006, f)
