@@ -26,12 +26,12 @@ with open('dblp2005-core.pkl', 'rb') as f:
 with open('dblp2006-core.pkl', 'rb') as f:
     core2006= pickle.load(f)
 
-fof = []
+fof = set([])
 for n in tqdm(core2005.nodes):
     current_fof = find_fof(core2005, n)
     for cf in current_fof:
-        if (n, cf) not in fof or (cf, n) not in fof:
-            fof.append((n, cf))
+        if (n, cf) not in fof and (cf, n) not in fof:
+            fof.add((n, cf))
 
 with open('fof.pkl', 'wb') as f:
     pickle.dump(fof, f)
