@@ -48,4 +48,3 @@ preds = nx.jaccard_coefficient(core2005, fof)
 preds = sorted(preds, key= lambda x:x[2], reverse=True)
 with open('jaccard_coefficient.pkl', 'wb') as f:
     pickle.dump(preds, f)
-print(preds)
