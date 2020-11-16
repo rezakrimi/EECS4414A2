@@ -2,6 +2,15 @@ import pickle
 import networkx as nx
 from tqdm import tqdm
 
+def common_neighbor_centrality(G, pairs, alpha=0.8):
+    result = []
+    print('calculating common neighbors centrality')
+    for p in tqdm(pairs):
+        common_neighbors = list(nx.common_neighbors(G, p[0], p[1]))
+        score = (alpha * len(common_neighbors)) + ((1-alpha) * G.number_of_nodes() / 2)
+        result.append((p[0], p[1], score))
+    return result
+
 def find_fof(G, node):
     result = []
     visited = [node]
@@ -47,17 +56,17 @@ with open('T.pkl', 'wb') as f:
 with open('fof.pkl', 'rb') as f:
     fof = pickle.load(f)
 
-preds = nx.jaccard_coefficient(core2005, fof)
-preds = sorted(preds, key= lambda x:x[2], reverse=True)
-with open('jaccard_coefficient.pkl', 'wb') as f:
-    pickle.dump(preds, f)
+# preds = nx.jaccard_coefficient(core2005, fof)
+# preds = sorted(preds, key= lambda x:x[2], reverse=True)
+# with open('jaccard_coefficient.pkl', 'wb') as f:
+#     pickle.dump(preds, f)
 
 
 # Common_Neighbor_centrality
-# preds = nx.common_neighbor_centrality(core2005, fof)
-# preds = sorted(preds, key= lambda x:x[2], reverse=True)
-# with open('common_neighbor_centrality.pkl', 'wb') as f:
-#    pickle.dump(preds, f)
+preds = common_neighbor_centrality(core2005, fof, alpha=0.8)
+preds = sorted(preds, key= lambda x:x[2], reverse=True)
+with open('common_neighbor_centrality.pkl', 'wb') as f:
+   pickle.dump(preds, f)
 
 #Preferential_attachment
 # preds = nx.preferential_attachment(core2005, fof)
