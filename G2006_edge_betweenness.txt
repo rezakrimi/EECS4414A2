@@ -1,0 +1,50 @@
+Daewon Lee, Hwang Soo Lee, 8.079044889825235e-06
+Akihiro Kishimoto, Kenjiro Taura, 8.07884917336769e-06
+Zhigang Wang, Shentang Li, 8.077544396984056e-06
+Yu Zhang, Guanghuan Hou, 8.077544396984055e-06
+Hwang Soo Lee, Sangman Bak, 8.077479158164874e-06
+Wen Wu, Daniel J. Crowther, 8.077152964068965e-06
+Elvir Causevic, Mauro Maggioni, 8.075652471227788e-06
+Zhigang Wang, Hong Peng, 7.770600553184065e-06
+Yong Liu, Barbara S. Minsker, 6.720095245483491e-06
+Daewon Lee, Jaewook Lee, 6.129700477418701e-06
+Hua Wang, Seiichi Shin, 5.989279166932047e-06
+Gal A. Kaminka, Avi Rosenfeld, 5.891073641598155e-06
+Mauro Maggioni, Petros Drineas, 5.076953622333505e-06
+Kenjiro Taura, Masao Sugi, 3.9443345378331474e-06
+Kiyoshi Kotani, Kenjiro Taura, 3.944204060194784e-06
+Jing Zhang, Wen Wu, 3.892492352094523e-06
+Yong Li, Jaekyun Moon, 3.74570552321518e-06
+Jaekyun Moon, Jaewook Lee, 3.7446617021082725e-06
+Kiyoshi Kotani, Seiichi Shin, 2.9842235153068707e-06
+Masao Sugi, Seiichi Shin, 2.984126589061229e-06
+Mauro Maggioni, Michael W. Mahoney, 2.952494325049164e-06
+David Lewis, Antoine Roelens, 2.8155103780776807e-06
+Jun Zhang, Hong Peng, 2.685750527520105e-06
+Petros Drineas, S. Muthukrishnan, 2.6718183255746736e-06
+Michael W. Mahoney, S. Muthukrishnan, 2.666941908068357e-06
+Yihong Ding, Yi Zhao, 2.660366396166831e-06
+Victor C. M. Leung, Song Guo, 2.5286807046309653e-06
+Yong Zhang, Yong Li, 2.423041740154093e-06
+Tao Zhang, Yihong Ding, 2.3818309989779345e-06
+Sarit Kraus, Avi Rosenfeld, 2.1865359942050854e-06
+Bo Liu, Hong Peng, 2.071961725469428e-06
+Tat-Seng Chua, Wen Wu, 2.0253394481892944e-06
+S. Muthukrishnan, Flip Korn, 1.6308997545537009e-06
+Malik Magdon-Ismail, Petros Drineas, 1.563628723373711e-06
+Jie Yang 0001, Wen Wu, 1.5334514832988513e-06
+Andreas Zell, Christian Weiss, 1.5283211867826193e-06
+Christian Weiss, Achim Schramm, 1.5226236632407496e-06
+Daewon Lee, Achim Schramm, 1.521879371156831e-06
+David Lewis, Simon Dobson, 1.50300389622333e-06
+Song Guo, Oliver W. W. Yang, 1.4495528750321463e-06
+Xiang Li, Andreas Zell, 1.4129724769872304e-06
+David Lewis, Song Guo, 1.3274212480937593e-06
+Declan O'Sullivan, Song Guo, 1.3249641466194184e-06
+John Keeney, Song Guo, 1.3244959621523496e-06
+Declan O'Sullivan, Antoine Roelens, 1.3217234159944606e-06
+John Keeney, Antoine Roelens, 1.3216255577656882e-06
+Tomas Vitvar, Xia Wang, 1.3003889423928005e-06
+Hui Li, Yong Liu, 1.2464739650088311e-06
+Yan Li, Yong Liu, 1.1864209118771902e-06
+Xin Zhang, Hong Peng, 1.1651681880478028e-06

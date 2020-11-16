@@ -1,0 +1,50 @@
+Jane E. Fountain, David Lazer, 9.355715883828614e-06
+Arun Kumar, Gourab Sen Gupta, 9.355584727094398e-06
+Jean-Pierre Briot, Giordano Ribeiro de Eulalio Cabral, 9.353136468055748e-06
+Dongfeng Yuan, Changcai Han, 9.351562587245184e-06
+David Lazer, Charles Brenner, 9.351475149422377e-06
+Zahir Tari, Manish Malhotra, 9.351387711599568e-06
+Michael Katchabaw, Stephen Danton, 9.351387711599568e-06
+Giordano Ribeiro de Eulalio Cabral, Erika Pessoa Araujo, 9.351387711599568e-06
+Sanghyun Park, Woosung Jung, 9.351002985179208e-06
+Jian Liu, Dongfeng Yuan, 9.05523733737198e-06
+Michael A. Bauer, Michael Katchabaw, 7.64469865040486e-06
+Qin Li, Michael A. Bauer, 7.525561962969934e-06
+Christian Queinnec, Luc Moreau, 7.365928888050023e-06
+Jean-Pierre Briot, Christian Queinnec, 7.364486163973675e-06
+Pierre Hansen, Patricia Domínguez-Marín, 7.057864408382349e-06
+Steffen Staab, Carsten Saathoff, 6.470787515033147e-06
+Hadrien Mélot, Pierre Hansen, 6.153008697235059e-06
+Lois M. L. Delcambre, Jane E. Fountain, 5.939527229140925e-06
+Arun Kumar, Biplav Srivastava, 5.824983038805052e-06
+Zahir Tari, Albert Y. Zomaya, 5.627623923065807e-06
+Stefan Langerman, Hadrien Mélot, 5.217520697873986e-06
+Kun Luo, Jianren Fan, 4.670526131795115e-06
+Kun Luo, Kefa Cen, 4.6704386939723064e-06
+Sanghyun Park, Jaewoo Kang, 4.640496692967511e-06
+David Maier, Lois M. L. Delcambre, 4.640002311963685e-06
+Jiong Yang, Jaewoo Kang, 4.39345616154395e-06
+Lan Liu, Jianren Fan, 4.181624811916869e-06
+Lan Liu, Kefa Cen, 4.1808524444820565e-06
+Chen Wang, Albert Y. Zomaya, 4.088792935231115e-06
+Sanghyun Park, Dongwon Lee, 3.6785112138744738e-06
+Tao Jiang, Lan Liu, 3.608393599381385e-06
+David Zhang, Qin Li, 2.632471300416068e-06
+Philip S. Yu, Jian Liu, 2.5541409967265343e-06
+Jane E. Fountain, Judith L. Klavans, 2.386627465330414e-06
+Jinpeng Huai, Qin Li, 2.279112670315144e-06
+Nicholas R. Jennings, Luc Moreau, 2.255682023269437e-06
+Judith L. Klavans, Min-Yen Kan, 2.2331275831739976e-06
+Nenad Mladenovic, Patricia Domínguez-Marín, 2.1176966340437805e-06
+Xi Chen, Lan Liu, 2.0496920635974015e-06
+Uros Midic, Nenad Mladenovic, 1.8934682310128692e-06
+Wei Lu, Min-Yen Kan, 1.8462555551124388e-06
+Jean-Pierre Briot, Olivier Marin, 1.81343821586485e-06
+Jiong Yang, Philip S. Yu, 1.8086625999569068e-06
+Olivier Marin, Niek J. E. Wijngaards, 1.7721328486151952e-06
+Yong Xu, Lan Liu, 1.7495535962051952e-06
+Stephan Bloehdorn, Carsten Saathoff, 1.7477163883747566e-06
+Qin Li, Jianxin Li, 1.7392243596736834e-06
+Hossam S. Hassanein, Hanan Lutfiyya, 1.714038431004387e-06
+Michael Katchabaw, Hanan Lutfiyya, 1.7118870003642184e-06
+Catholijn M. Jonker, Niek J. E. Wijngaards, 1.672287476908393e-06

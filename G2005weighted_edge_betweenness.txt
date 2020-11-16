@@ -1,0 +1,50 @@
+Hao Jiang, Joel W. Burdick, 9.367476270996427e-06
+Yuling Liu, Xingming Sun, 9.358120423955863e-06
+Aimin Yang, Xingming Sun, 9.356284229676873e-06
+Aimin Yang, Shiying Wang, 9.355060100157548e-06
+Shiying Wang, Shangwei Lin, 9.351562587245188e-06
+Feng Zhang, Hui-You Chang, 9.351562587245186e-06
+AnnMarie Polsenberg Thomas, Joel W. Burdick, 9.351300273776762e-06
+Theresa A. Pardo, William G. LeFurgy, 9.351300273776759e-06
+Henry M. Tufo, William F. Spotz, 9.350906803574121e-06
+Andrew Sears, Liwei Dai, 9.102838311978256e-06
+Theresa A. Pardo, Judith Bayard Cushing, 8.67826050736656e-06
+Min-Soo Kim 0002, Kyu-Young Whang, 8.66180086369094e-06
+Wei Zhao, He Chuan, 8.232203439764612e-06
+Yuanchun Shi, Ling Guo, 6.516651934103328e-06
+Lina Zhou, Andrew Sears, 5.548385637764456e-06
+Chongxun Zheng, Feng Zhang, 4.797105639685177e-06
+Geng Yang, Sirkka L. Jarvenpaa, 4.749439888151524e-06
+Geng Yang, Chunming Rong, 4.745953227807431e-06
+Hao Jiang, Ze-Nian Li, 4.707638187314706e-06
+Wenjun Li, Dan Chen, 4.621839928137092e-06
+Wenjun Li, Huaiyu Dai, 4.620309766237935e-06
+Huaiyu Dai, Quan Zhou, 4.616462502034338e-06
+Chunming Rong, Quan Zhou, 4.606192278256483e-06
+Amarnath Gupta, Judith Bayard Cushing, 4.582055484727494e-06
+Ze-Nian Li, Qiang Yang 0001, 4.33664093352764e-06
+Yu Chen, Yuanchun Shi, 3.858626911022982e-06
+Yuling Liu, Min Peng, 3.4756496674661075e-06
+Yuling Liu, Xiao-hui Yang, 3.3494142516838662e-06
+Kalle Lyytinen, Sirkka L. Jarvenpaa, 2.7945868520097172e-06
+Henry M. Tufo, Manish Gupta, 2.5943384324928037e-06
+Junfeng Tian, Yuling Liu, 2.5437414067531478e-06
+Junfeng Tian, Ying Xu, 2.521548646609611e-06
+Henry M. Tufo, José E. Moreira, 2.20369733629089e-06
+Kyu-Young Whang, Elisa Bertino, 2.156099674653616e-06
+Wen Gao, Wei Zhao, 2.1531166343039016e-06
+Yong Yang, Feng Zhang, 2.1239885064505304e-06
+Jin Xu, Chongxun Zheng, 2.0949118773690995e-06
+Lois M. L. Delcambre, Judith Bayard Cushing, 2.0787104828218454e-06
+Andrew Sears, Min Lin, 2.0642193319968447e-06
+Wei Zhang, Min Peng, 2.036197265368195e-06
+Jue Wang, Chongxun Zheng, 1.9609608782164784e-06
+Licheng Jiao, Xiao-hui Yang, 1.9534488767523076e-06
+Timothy W. Finin, Lina Zhou, 1.934063370671262e-06
+David Maier, Lois M. L. Delcambre, 1.900780919066647e-06
+Zhihua Wang, Min Lin, 1.7885744015658732e-06
+Xin He, Ling Guo, 1.7746122662599427e-06
+Wei Zhao, Yang Yang, 1.7081779039808023e-06
+Jin Xu, Xin Li, 1.6261789397100948e-06
+Tao Zhang, Michael Gschwind, 1.6138913005735054e-06
+John R. Smith, Amarnath Gupta, 1.5490579308901268e-06
