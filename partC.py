@@ -44,7 +44,29 @@ for edge in tqdm(core2006.edges()):
 with open('fof.pkl', 'rb') as f:
     fof = pickle.load(f)
 
-preds = nx.common_neighbor_centrality(core2005, fof, 0.3)
+"""preds = nx.jaccard_coefficient(core2005, fof)
 preds = sorted(preds, key= lambda x:x[2], reverse=True)
-with open('common_neighbor_centrality.pkl', 'wb') as f:
+with open('jaccard_coefficient.pkl', 'wb') as f:
     pickle.dump(preds, f)
+print(preds)"""
+
+# Common_Neighbor_centrality
+# preds = nx.common_neighbor_centrality(core2005, fof)
+# preds = sorted(preds, key= lambda x:x[2], reverse=True)
+# with open('common_neighbor_centrality.pkl', 'wb') as f:
+#    pickle.dump(preds, f)
+# print(preds)
+
+#Preferential_attachment
+preds = nx.preferential_attachment(core2005, fof)
+preds = sorted(preds, key= lambda x:x[2], reverse=True)
+with open('preferential_attachment.pkl', 'wb') as f:
+    pickle.dump(preds, f)
+#print(preds)
+
+#Adamic_Adar_index
+preds = nx.adamic_adar_index(core2005, fof)
+preds = sorted(preds, key= lambda x:x[2], reverse=True)
+with open('adamic_adar_idex.pkl', 'wb') as f:
+    pickle.dump(preds, f)
+#print(preds)
