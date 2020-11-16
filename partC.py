@@ -40,6 +40,9 @@ for edge in tqdm(core2006.edges()):
     if not core2005.has_edge(edge[0], edge[1]):
         T.append(edge)
 
+with open('T.pkl', 'wb') as f:
+    pickle.dump(T, f)
+
 #code to load fof
 with open('fof.pkl', 'rb') as f:
     fof = pickle.load(f)
