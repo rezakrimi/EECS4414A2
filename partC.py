@@ -44,8 +44,7 @@ for edge in tqdm(core2006.edges()):
 with open('fof.pkl', 'rb') as f:
     fof = pickle.load(f)
 
-preds = nx.jaccard_coefficient(core2005, fof)
+preds = nx.common_neighbor_centrality(core2005, fof, 0.3)
 preds = sorted(preds, key= lambda x:x[2], reverse=True)
-with open('jaccard_coefficient.pkl', 'wb') as f:
+with open('common_neighbor_centrality.pkl', 'wb') as f:
     pickle.dump(preds, f)
-print(preds)
